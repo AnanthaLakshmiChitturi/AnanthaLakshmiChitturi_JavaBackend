@@ -10,7 +10,7 @@ class Student {
     public static void main(String[] args)
     {
         Student obj = new Student();
-        obj.setName("Anantha Lakshmi Chitturi");
+        obj.setName("Chitturi Anantha Lakshmi");
         System.out.println(obj.getName());
     }
 }
