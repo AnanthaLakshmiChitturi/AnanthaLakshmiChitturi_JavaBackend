@@ -19,7 +19,7 @@ public class Person implements Comparable{
     public int compareTo(Object O) {
 
         Person comparingTo = (Person)O;
-        int difference =this.toString().compareTo(comparingTo.toString());
+        int difference =this.toString().compareTo(O.toString());
         return difference;
 
 
