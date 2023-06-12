@@ -1,0 +1,23 @@
+Hi This is Lakshmi I have 10 years of experience as a java developer in Finance,Health ,Care and Retail domains.I have started my career as a 
+Associate java developer and currently working as a Senior Java Developer in American Airlines. 
+
+
+My Expertise lies in developing end to end full stack applications using front end technologies such as HTML,CSS,JSS and Angular,React as frameworks
+
+Coming to backend I have developed microservice based applications using Java,Spring Boot,NODE JS and integrated  REST API,Soap for data communication.
+
+For Databases I have integrated both SQL and NOSQL databases as per project requirements.
+
+For ensuring the security of application have used protocols such as  HTTPS/SSL/TLS.
+
+Performed unit testing.Integration testing,performance testing,load testing to ensure the smooth functioning on the production environment.
+
+Expertise on deploying the applications on to cloud environmet by using CI/CD Tools such as Jenkins,Docker,Kubernetes,Ansible and automating the cloud infrastructure using terraform
+
+
+
+=====================================================================================================================================================
+current project:
+
+For the current project which is related to finance domain I am working as a full stack developer.
+my roles and responsibilities includes creating low level designs, creating new API specifications, converting these designs into effective code, writing unit test cases participating in deployments providing post production support as well. Coming to technical staff here I'm using Java 1.8 Spring Spring Boot Spring Cloud and also we are using Spring Data JPA and Hibernate to establish communication between our underlying database and our applications. And in the USA, we are using Angular eight version along with HTML and CSS. And coming to tools I'm having good experience in writing unit test cases by using J unit and Mockito and also I'm proficient in working with Splunk and Grafana, where we are using Splunk to visualize application logs and with the help of Grafana dashboards, visualizing application has the metrics. And also I'm good with the CI CD tools like Jenkins Docker Kubernetes and I'm having good experience with the AWS services like easy to use three cloud watch
